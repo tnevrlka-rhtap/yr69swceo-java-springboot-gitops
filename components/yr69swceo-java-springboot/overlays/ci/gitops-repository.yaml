@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yr69swceo-java-springboot-gitops-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/yr69swceo-java-springboot-gitops
